@@ -1,5 +1,5 @@
 module.exports = {
-    stripePublishableKey: process.env.STRIPE_PUBLISHABLE_KEY,
+    KhaltiPublishableKey: process.env.Khalti_PUBLISHABLE_KEY,
     
-    stripeSecretKey: process.env.STRIPE_SECRET_KEY
+    KhaltiSecretKey: process.env.Khalti_SECRET_KEY
 }
